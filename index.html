@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Hammed Sodiq | Web Developer</title>
@@ -51,6 +52,50 @@
 
       body {
         -webkit-text-size-adjust: 100%;
+      }
+
+      /* Add these to your existing CSS */
+      * {
+        -webkit-tap-highlight-color: transparent;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+      }
+
+      body {
+        -webkit-text-size-adjust: 100%;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      /* Fix for 100vh issues on iOS */
+      #hero {
+        min-height: -webkit-fill-available;
+        min-height: 100vh;
+      }
+
+      /* Fix for fixed positioning issues */
+      header {
+        position: -webkit-sticky;
+        position: sticky;
+      }
+
+      /* Add webkit prefixes for flexbox/grid */
+      .header-container {
+        display: -webkit-grid;
+        display: grid;
+        -webkit-grid-template-columns: 1fr auto;
+        grid-template-columns: 1fr auto;
+      }
+
+      /* Fix for animations on iOS */
+      .hero-bg {
+        -webkit-animation: zoomEffect 20s infinite alternate;
+        animation: zoomEffect 20s infinite alternate;
+      }
+
+      .profile-img-container {
+        -webkit-animation: float 6s ease-in-out infinite;
+        animation: float 6s ease-in-out infinite;
       }
 
       * {
@@ -868,6 +913,21 @@
 
       /* Responsive Design */
       @media (max-width: 992px) {
+        /* iOS specific fixes */
+        @supports (-webkit-touch-callout: none) {
+          .container {
+            padding: 0 15px;
+          }
+
+          #hero {
+            padding: 120px 0 80px;
+          }
+
+          .hero-content h1 {
+            font-size: 2.2rem;
+          }
+        }
+
         #hero {
           grid-template-columns: 1fr;
           text-align: center;
