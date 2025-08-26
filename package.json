@@ -10,9 +10,10 @@
     "build": "parcel build index.html"
   },
   "devDependencies": {
+    "@parcel/transformer-webmanifest": "^2.15.4",
+    "autoprefixer": "^10.4.19",
     "parcel": "^2.10.0",
-    "postcss": "^8.4.35",
-    "autoprefixer": "^10.4.19"
+    "postcss": "^8.4.35"
   },
   "browserslist": [
     "last 2 Chrome versions",
