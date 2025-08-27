@@ -1,5 +1,7 @@
 {
   "plugins": {
-    "autoprefixer": {}
+    "autoprefixer": {
+      "overrideBrowserslist": ["last 2 versions", "iOS >= 10"]
+    }
   }
 }
