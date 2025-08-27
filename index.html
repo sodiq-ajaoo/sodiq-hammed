@@ -50,23 +50,6 @@
         -webkit-tap-highlight-color: transparent;
       }
 
-      body {
-        -webkit-text-size-adjust: 100%;
-      }
-
-      /* Add these to your existing CSS */
-      * {
-        -webkit-tap-highlight-color: transparent;
-        -webkit-touch-callout: none;
-        -webkit-user-select: none;
-      }
-
-      body {
-        -webkit-text-size-adjust: 100%;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-      }
-
       /* Fix for 100vh issues on iOS */
       #hero {
         min-height: -webkit-fill-available;
@@ -1066,6 +1049,39 @@
         .about-image-placeholder {
           height: 250px;
           font-size: 3rem;
+        }
+
+        /* iPhone-specific fixes */
+        @supports (-webkit-touch-callout: none) {
+          .container {
+            padding: 0 15px;
+          }
+          #hero {
+            min-height: 100dvh; /* fix viewport bug */
+            padding: 120px 0 80px;
+          }
+          .hero-content h1 {
+            font-size: 2.2rem;
+          }
+        }
+
+        /* Ensure grid collapses properly on small iPhones */
+        @media (max-width: 820px) {
+          .contact-container {
+            grid-template-columns: 1fr;
+          }
+        }
+
+        @media (max-width: 420px) {
+          .skills {
+            grid-template-columns: 1fr;
+          }
+        }
+
+        /* Safer nav height fallback */
+        nav ul {
+          height: calc(100vh - 80px);
+          height: calc(100dvh - 80px);
         }
       }
     </style>

@@ -1,4 +1,4 @@
-3748
+3750
 93C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\postcss\lib\parser.js134007175263000063 0
 139C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages134007133788943044 0
 115C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\caniuse-lite\data\features\web-animation.js134007133785177387 0
@@ -25,7 +25,7 @@
 102C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\profiler\src\Tracer.js134007133683090594 0
 91C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\nanoid\url-alphabet134007175262830496 1
 99C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\transformer-postcss134007133683400058 1
-74C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\.browserslistrc134007155713827123 0
+74C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\.browserslistrc134007651367847834 0
 83C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\safe-buffer134007133664691423 1
 105C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\caniuse-lite\data\features\url.js134007133783735420 0
 108C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\core\test\AssetGraph.test.js134007133701520797 0
@@ -47,14 +47,14 @@
 121C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h134007133733608535 0
 107C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\lmdb\dependencies\lz4\lib\lz4file.c134007133704577589 0
 103C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\caniuse-lite\data\regions\NO.js134007133777190123 0
-63C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist134007632044959739 1
+63C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist134007652485863119 1
 142C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json134007133753452782 0
 103C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\watcher\src\Debounce.cc134007133674802806 0
 98C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\postcss\lib\container.d.ts134007175263604246 0
 129C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c134007133724756197 0
 96C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\postcss\lib\at-rule.d.ts134007175263554384 0
 111C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\caniuse-lite\data\features\mpeg-dash.js134007133776398986 0
-69C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\index.html134007631203853068 0
+69C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\index.html134007649541739795 0
 79C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\is-glob134007133658833134 1
 93C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\picocolors\types.d.ts134007133674632847 0
 107C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\caniuse-lite\data\features\woff2.js134007133785956280 0
@@ -315,7 +315,7 @@
 104C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\source-map-js\lib\source-node.js134007175262950179 0
 99C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\node-addon-api\package.json134007133695324130 0
 112C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\caniuse-lite\data\features\filereader.js134007133763296409 0
-84C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\manifest.webmanifest134007160918386038 0
+84C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\manifest.webmanifest134007652485264223 0
 94C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@swc\core\package.json134007133681852155 0
 82C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@swc\types134007133674299771 1
 102C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\nanoid\non-secure\package.json134007175262780633 0
@@ -3563,7 +3563,7 @@
 99C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\events\src\types.js134007133683244866 0
 104C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\events\lib\Disposable.js134007133641062458 0
 99C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\events\lib\index.js134007133677439463 0
-74C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\index.html134007632044889430 0
+74C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\index.html134007652485729858 0
 97C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\error-overlay\lib134007133703675948 1
 106C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\error-overlay\package.json134007133703483163 0
 108C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\@parcel\error-overlay\src\components134007133695527660 1
@@ -3744,6 +3744,8 @@
 83C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\.bin\semver134007133789009115 0
 87C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\node_modules\.bin\semver.ps1134007133788999135 0
 85C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\christop.2dc48e8e.jpg134007157603309777 0
+85C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\christop.bbe1c513.jpg134007652485839985 0
+80C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\dev.23dbc6f2.jpg134007652485395943 0
 80C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\dev.8ebd8859.jpg134007160919524434 0
 116C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\dist\sodiq-cares-site-enhanced - Copy (2).3464ddca.js.map134007157618868405 0
 72C:\Users\hp\Downloads\sodiq-cares-site-enhanced - Copy (2)\assets\images134007075102689456 1
